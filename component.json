@@ -1,0 +1,11 @@
+{
+  "name": "utils-state",
+  "repo": "atomic-css/utils-state",
+  "description": "Utilities for state-related CSS",
+  "version": "1.0.0",
+  "styles": [
+    "state.css"
+  ],
+  "author": "Lukáš Mladý",
+  "license": "MIT"
+}
